@@ -1,5 +1,4 @@
 // src/components/dashboard/DashboardRightRail/DashboardRightRail.tsx
-import React from "react";
 import { useQuery } from "@tanstack/react-query";
 import {
   ChevronLeft,

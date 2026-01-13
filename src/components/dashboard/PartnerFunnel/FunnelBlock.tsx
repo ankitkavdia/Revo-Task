@@ -1,5 +1,4 @@
 // src/components/dashboard/PartnerFunnel/FunnelBlock.tsx
-import React from "react";
 import { cn } from "@/lib/utils";
 
 type Props = {

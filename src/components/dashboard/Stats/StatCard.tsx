@@ -1,5 +1,4 @@
 // src/components/dashboard/Stats/StatCard.tsx
-import React from "react";
 import { cn } from "@/lib/utils";
 
 // Shadcn UI

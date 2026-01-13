@@ -1,5 +1,4 @@
 // src/components/dashboard/NeedsApproval/NeedsApproval.tsx
-import React from "react";
 import { AlertCircle } from "lucide-react";
 import { useQuery } from "@tanstack/react-query";
 import { ApprovalItem } from "./ApprovalItem";

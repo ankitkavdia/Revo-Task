@@ -1,5 +1,4 @@
 // src/components/dashboard/StatsWithChat/StatsWithChat.tsx
-import React from "react";
 import { InboxPanel } from "@/components/inbox/InboxPanel";
 
 /**

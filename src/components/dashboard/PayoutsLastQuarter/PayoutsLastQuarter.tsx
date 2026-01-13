@@ -1,5 +1,4 @@
 // src/components/dashboard/PayoutsLastQuarter/PayoutsLastQuarter.tsx
-import React from "react";
 import { useQuery } from "@tanstack/react-query";
 import { Zap } from "lucide-react";
 

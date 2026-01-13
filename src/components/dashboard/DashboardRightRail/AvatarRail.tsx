@@ -1,5 +1,4 @@
 // src/components/dashboard/DashboardRightRail/AvatarRail.tsx
-import React from "react";
 import { useQuery } from "@tanstack/react-query";
 import { ChevronRight } from "lucide-react";
 

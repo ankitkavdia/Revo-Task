@@ -4,9 +4,9 @@ export function InboxPanel() {
   return (
     <aside className="rounded-2xl bg-white p-4 flex flex-col h-full">
       <div className="flex-1 space-y-3">
-        <MessageItem name="Sarah Jenkins" text="Can we schedule a call?" />
-        <MessageItem name="Mike Ross" text="Agreement looks good." />
-        <MessageItem name="Elena Fisher" text="Attribution question." />
+        <MessageItem name="Sarah Jenkins" message="Can we schedule a call?" />
+        <MessageItem name="Mike Ross" message="Agreement looks good." />
+        <MessageItem name="Elena Fisher" message="Attribution question." />
       </div>
 
       <input

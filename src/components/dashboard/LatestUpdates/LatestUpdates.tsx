@@ -1,5 +1,4 @@
 // src/components/dashboard/LatestUpdates/LatestUpdates.tsx
-import React from "react";
 import { Bell, ChevronDown } from "lucide-react";
 import { useQuery } from "@tanstack/react-query";
 import { UpdateChip } from "./UpdateChip";

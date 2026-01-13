@@ -1,5 +1,4 @@
 // src/components/layout/Header.tsx
-import React from "react";
 import { ChevronRight, Menu, Search, Printer } from "lucide-react";
 
 export function Header() {
