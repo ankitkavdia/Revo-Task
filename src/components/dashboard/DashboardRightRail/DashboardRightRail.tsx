@@ -205,7 +205,7 @@ function AvatarStrip({ people }: { people: InboxPerson[] }) {
           <img
             src={p.avatarUrl}
             alt={p.name}
-            className="h-10 w-10 rounded-full object-cover ring-2 ring-white shadow-[0_12px_24px_rgba(0,0,0,0.12)]"
+            className="h-10 w-10 rounded-2xl object-cover ring-2 ring-white shadow-[0_12px_24px_rgba(0,0,0,0.12)]"
           />
           {p.unread ? (
             <span className="absolute -right-1 -top-1 grid h-5 min-w-[20px] place-items-center rounded-full bg-[#C9FF2E] px-1 text-[11px] font-extrabold text-black ring-2 ring-white">
