@@ -1,4 +1,3 @@
-````md
 # Revo Task — Frontend Developer Trial (DASHBOARD-TRIAL-REVO-2026-01)
 
 This repository contains a single-page, responsive dashboard UI rebuilt from a provided screenshot as part of a Frontend Developer trial evaluation. The objective of this task is to demonstrate real coding ability, component structure, and visual approximation skills using the required stack.
@@ -87,7 +86,6 @@ Data Layer:
 ```bash
 git clone https://github.com/ankitkavdia/Revo-Task.git
 cd Revo-Task
-````
 
 ### 2) Install Dependencies
 
